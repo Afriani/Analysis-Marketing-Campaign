@@ -1,4 +1,4 @@
-# Analysis-Marketing-Campaign
+# Analysis-Marketing-Campaign-With-Pandas
 In this project I am going to show my analysis which based on translating common business questions into measurable outcomes, including: 1. How did this marketing campaign perform ?
 2. Which channel is referring the most subscribers ?
 3. Why is a particular channel under performing ?
